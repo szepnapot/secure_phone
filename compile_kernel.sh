@@ -1,3 +1,4 @@
+cd
 git clone --recurse-submodules -j8 https://github.com/kerneltoast/android_kernel_google_bluecross.git
 cd android_kernel_google_bluecross
 make
